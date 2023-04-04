@@ -1,7 +1,6 @@
 package com.tutu.knowledge_box.controller;
 
 import com.tutu.knowledge_box.entity.BaseResponse;
-import com.tutu.knowledge_box.service.AIService;
 import com.tutu.knowledge_box.vo.QuestionVo;
 import jakarta.annotation.Resource;
 import org.springframework.web.bind.annotation.PostMapping;
