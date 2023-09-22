@@ -21,3 +21,9 @@
 - 接入微信机器人
 - 能否整合提词，做语义整理分析
 - 让项目更具灵活性，可自定义问答形式
+
+
+
+  最近开启维护，欢迎骚扰
+  ![95831de27c5562cbf1f22c91210673f](https://github.com/FFFamily/knowledge_box/assets/49579222/92bbd0e8-6d22-4ae5-8a44-b64fd13197fa)
+
